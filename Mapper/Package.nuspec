@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Mihira.Package</id>
+    <version>1.0.0</version>
+    <authors>Mihira Bandara</authors>
+    <owners>Mihira Bandara</owners>
+    <licenseUrl>Mhttps://github.com/MihiraBandara/Mapper</licenseUrl>
+    <projectUrl>https://github.com/MihiraBandara/Mapper</projectUrl>
+    <iconUrl>https://github.com/MihiraBandara/Mapper/blob/master/Mihira.png?raw=true</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Mihira Package description</description>
+    <releaseNotes>Summary of changes made in this release of the Mihira package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Mihira.Package Tag1 Tag2</tags>
+  </metadata>
+  <files>
+    <file src="Mapper\IModelMapper.cs" target="content\MyPackage\IModelMapper1.cs" />
+  </files>
+</package>
